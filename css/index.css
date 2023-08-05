@@ -1,0 +1,19 @@
+
+nav {
+  justify-content: flex-start;
+}
+ul {
+display: flex;
+list-style: none;
+
+}
+.search{
+  margin-left:700px
+}
+.talk{
+  margin-left:20px;
+}
+.notification{
+  margin-left:20px;
+}
+
